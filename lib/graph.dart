@@ -80,7 +80,7 @@ var graph1 = WeightedDirectedGraph<String, int>(
     aa: {z: 646, ah: 1175},
     ab: {aj: 250, ac: 1005, ad: 2568},
     ac: {ab: 1005},
-    ad: {ab: 2568, ae: 268, ad: 531},
+    ad: {ab: 2568, ae: 268, af: 531},
     ae: {ad: 268},
     af: {ad: 531, r: 415, ag: 596},
     ag: {af: 596, ak: 355, ai: 2504},
